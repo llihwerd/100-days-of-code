@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 24, 2024
+### Day 1: June 24, 2024
 
 **Today's Progress**: Updated CSS in deck wizard app & did troubleshooting for form submission error on new deck form.
 
